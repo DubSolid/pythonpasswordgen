@@ -1,2 +1,4 @@
 # pythonpasswordgen
-Password generator written in Python. 
+Password generator written in Python.
+
+Will eventually become a keychain as well.
